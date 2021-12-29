@@ -1,2 +1,6 @@
-gzdoom-Federico.ini
-/Save
+#Hey, don't worry about this file, this is
+#just a list of what GitHub has to ignore in
+#my folder, just to keep the repo as clean as
+#possible ;)
+
+Doom MegaPack.url

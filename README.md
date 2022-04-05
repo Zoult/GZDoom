@@ -11,7 +11,7 @@ forked projects. My intent is not to take ownership of anything.
 ## Setup
 
 ### Step 1.1, check if Git is installed
-Having large files, this repo has Git LFS, and this requires Git. You can check if is installed by running `git --version` in the command prompt. If you don't have it installed yet, download and install it [from here](https://git-scm.com/download/ "Download Git").
+Having large files, this repo has Git LFS, and this requires Git. You can check if is installed by running `git --version` in the command prompt. If you don't have it installed yet, download and install it [from here](https://git-scm.com/download/win "Download Git").
 
 ### Step 1.2, install Git LFS
 Now download Git LFS [from here](https://git-lfs.github.com/ "Download Git LFS") and install it.
@@ -32,4 +32,4 @@ Instead, for the DOSBox version, you got to open DOOM.EXE with DOSBox, simply dr
 - [ZDoom's GZDoom (x32 and x64)](https://www.zdoom.org/downloads "ZDoom")
 - [DOSGames's DOOM](https://www.dosgames.com/game/doom "DOSGames")
 - [Gaytes's WADs](https://github.com/Gaytes/iwad "Gaytes")
-- [.NET 5.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+- [.NET 5.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime ".NET 5.0")

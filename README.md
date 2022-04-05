@@ -18,14 +18,15 @@ After that, go to the directory where you want DOOM to be installed and open the
 `git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win64` for the GZDoom 64 bit version;</div><div>
 `git lfs clone https://github.com/Zoult/old-DOOM.git DOSBox` for the DOSBox version.</div>
 
-### Step 2.2: Playing the GZDoom Version
+### Step 3: Playing the game versions
+#### Playing the GZDoom Version
 To play the GZDoom version, you just have to execute **gzdoom.exe**, and a menu with all DOOM editions will appear, choose one of it and play.
 
-### Step 2.2: Playing DOSBox Version
+#### Playing DOSBox Version
 For the DOSBox version, you got to open DOOM.EXE with DOSBox, simply drag and drop on the DOSBox link if you have it on your Desktop.
 
-### Step 3: Enjoy 😉
-For last but not least, enjoy these amazing creations and believe in the power of the DEMON SLAYER!
+### Enjoy! 😉
+For last but not least, enjoy these amazing creations and believe in ***THE POWER OF THE DEMON SLAYER**!*
 
 ## Links
 - [ZDoom's GZDoom (x32 and x64)](https://www.zdoom.org/downloads "ZDoom")

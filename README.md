@@ -12,7 +12,7 @@ Having large files, this repo has Git LFS, and this requires Git. You can check 
 ### Step 1.2: Install Git LFS
 Now download Git LFS [from here](https://git-lfs.github.com/ "Download Git LFS") and install it.
 
-### Step 2.1: Clone the repo choosing your version
+### Step 2: Clone the repo choosing the game version
 After that, go to the directory where you want DOOM to be installed and open the command prompt. Once opened, execute: <div>
 `git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win32` for the GZDoom 32 bit version;</div><div>
 `git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win64` for the GZDoom 64 bit version;</div><div>

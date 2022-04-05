@@ -28,7 +28,8 @@ To play the GZDoom version, you just have to execute **gzdoom.exe**, and a menu 
 #### DOSBox Version
 Instead, for the DOSBox version, you got to open DOOM.EXE with DOSBox, simply drag and drop on the DOSBox link if you have it on your Desktop.
 
-## Credits
+## Links
 - [ZDoom's GZDoom (x32 and x64)](https://www.zdoom.org/downloads "ZDoom")
 - [DOSGames's DOOM](https://www.dosgames.com/game/doom "DOSGames")
 - [Gaytes's WADs](https://github.com/Gaytes/iwad "Gaytes")
+- [.NET 5.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)

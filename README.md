@@ -6,7 +6,7 @@ Old-Doom collection
 
 ## Important Disclaimer
 I created this repository for private use, i turned it public to let others play DOOM. In this repo, i'm the owner of nothing, it's just a collection of 
-forked projects. My intent is not to take ownership of anything, all credits are below.
+forked projects. My intent is not to take ownership of anything.
 
 ## Setup
 

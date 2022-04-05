@@ -13,10 +13,10 @@ Having large files, this repo has Git LFS, and this requires Git. You can check 
 Now download Git LFS [from here](https://git-lfs.github.com/ "Download Git LFS") and install it.
 
 ### Step 2.1: Clone the repo choosing your version
-After that, go to the directory where you want DOOM to be installed and open the command prompt. Once opened, execute:
-<div>`git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win32` for the GZDoom 32 bit version;</div>
-`git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win64` for the GZDoom 64 bit version;
-`git lfs clone https://github.com/Zoult/old-DOOM.git DOSBox` for the DOSBox version.
+After that, go to the directory where you want DOOM to be installed and open the command prompt. Once opened, execute: <div>
+`git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win32` for the GZDoom 32 bit version;</div><div>
+`git lfs clone https://github.com/Zoult/old-DOOM.git GZDoom4.7.1Win64` for the GZDoom 64 bit version;</div><div>
+`git lfs clone https://github.com/Zoult/old-DOOM.git DOSBox` for the DOSBox version.</div>
 
 ### Step 2.2: Playing the GZDoom Version
 To play the GZDoom version, you just have to execute **gzdoom.exe**, and a menu with all DOOM editions will appear, choose one of it and play.
